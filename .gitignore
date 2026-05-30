@@ -1,0 +1,17 @@
+# Local runtime files
+.swim_app_port
+launch.log
+__pycache__/
+*.pyc
+
+# Local recovery / scratch files
+recovered_swimDataApp.json
+recovered_swimDataApp.utf16
+Untitled-1
+""
+
+# Local packaged app wrapper
+SwimDataApp.app/
+
+# OS files
+.DS_Store
